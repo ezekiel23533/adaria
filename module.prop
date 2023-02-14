@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v2.0
+id=adaria-ex
+name=Adaria
+version=v1.0
 versionCode=10
-author=Zackptg5
-description=Magisk Module Template Extended
+author=me
+description=cose
 updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
